@@ -47,6 +47,7 @@ GEM
       nio4r (>= 0.5.0)
     coderay (1.1.0)
     connection_pool (1.2.0)
+    database_cleaner (1.2.0)
     diff-lcs (1.2.5)
     erubis (2.7.0)
     factory_girl (4.4.0)
@@ -161,6 +162,7 @@ PLATFORMS
 
 DEPENDENCIES
   bson_ext
+  database_cleaner
   factory_girl_rails
   faker
   figaro

@@ -19,4 +19,5 @@ end
 group :test do
   gem 'faker'
   gem 'guard-rspec'
+  gem 'database_cleaner'
 end
